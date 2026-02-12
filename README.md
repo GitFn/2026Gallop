@@ -32,6 +32,9 @@
 
 ```bash
 # 克隆项目
+git clone https://github.com/GitFn/2026Gallop.git
+
+# 或克隆项目
 git clone https://gitee.com/GitFn/2026Gallop.git
 
 # 进入项目目录
